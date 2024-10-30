@@ -7,3 +7,4 @@ The project contains the following files:
 - insert_data.sh (Bash script that autofills two tables named teams and games with appropiate information extracted from games.csv)
 - queries.sh (Bash script that automatically makes a series of queries on the database)
 - worldcup.sql (Autocreates the tables if necessary)
+- expected_output.txt (The result that you should obtain by running queries.sh)
